@@ -1,16 +1,34 @@
 # mod11_assignment
 
-A new Flutter project.
+The Photo Viewer App is a Flutter application that allows you to fetch and display photos from a remote API, view photo details, and handle errors during API requests.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetch photos using an HTTP GET request from the provided API endpoint.
+- Display a list of photos with titles and thumbnail images.
+- Navigate to a new screen displaying the full-size image, title, and ID when tapping a photo.
+- Implements error handling for API calls.
 
-A few resources to get you started if this is your first Flutter project:
+## Structure
+The project is structured as follows:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- lib/: Contains the Dart source code for the app.
+- main.dart: Entry point of the app.
+- photo_list_screen.dart: Screen for displaying the list of photos.
+- photo_detail_screen.dart: Screen for displaying photo details.
+- photo.dart: Defines the Photo class.
+- pubspec.yaml: Lists the project's dependencies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+
+This project uses the following packages:
+- http: For making HTTP requests.
+
+These dependencies are listed in the pubspec.yaml file.
+
+## Screenshots
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
