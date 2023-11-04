@@ -27,6 +27,14 @@ This project uses the following packages:
 These dependencies are listed in the pubspec.yaml file.
 
 ## Screenshots
+1. main screen
+![Screenshot_1699073004](https://github.com/ob1Kenoobi/mod11-assignment/assets/140194680/cf91f079-a876-4529-bc2b-49d39093ed9c)
+
+2. Display photos on a screen
+![Screenshot_1699073008](https://github.com/ob1Kenoobi/mod11-assignment/assets/140194680/3a19968a-dc1e-44c5-9c80-a7365a32de6e)
+![Screenshot_1699073013](https://github.com/ob1Kenoobi/mod11-assignment/assets/140194680/b83de528-6e99-4508-b75c-93b4aa319b10)
+![Screenshot_1699073018](https://github.com/ob1Kenoobi/mod11-assignment/assets/140194680/61652df3-cecb-4e97-bf63-4f6c0d4c371a)
+![Screenshot_1699073023](https://github.com/ob1Kenoobi/mod11-assignment/assets/140194680/cabc9eac-edbd-4861-8ec3-e87a1383cd0e)
 
 
 ## License
